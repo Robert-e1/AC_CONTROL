@@ -2,12 +2,12 @@
 #include <string.h>
 #include <stdio.h>
 
-#define SHORT 440
-#define LONG 1280
+#define SHORT 400
+#define LONG 1200
 #define MARGIN 150
-#define INTRO 3500
-#define INTRO2 1750
-#define SEPARATOR 9880
+#define INTRO 3250
+#define INTRO2 1650
+#define SEPARATOR 137000
 
 
 char decode(int val1, int val2){
