@@ -1,118 +1,25 @@
 Running as regular user pi
-space 16777215
-pulse 3238
-space 1650
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 407
-space 1223
-pulse 407
-space 407
-pulse 406
-space 1222
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 414
-pulse 407
-space 1222
-pulse 407
-space 1223
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 1223
-pulse 407
-space 1223
-pulse 407
-space 414
-pulse 407
-space 405
-pulse 408
-space 405
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 408
-space 414
-pulse 406
-space 406
-pulse 406
-space 406
-pulse 408
-space 406
-pulse 407
-space 405
-pulse 407
-space 1223
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 407
-space 405
-pulse 408
-space 405
-pulse 411
-space 402
-pulse 407
-space 406
-pulse 407
-space 1222
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 415
-pulse 406
-space 405
-pulse 407
-space 1223
-pulse 406
-space 407
-pulse 407
-space 406
-pulse 407
-space 408
-pulse 404
-space 406
-pulse 406
-space 406
-pulse 406
-space 415
-pulse 407
-space 1223
-pulse 407
-space 405
-pulse 407
-space 1222
-pulse 407
-space 1223
-pulse 407
-space 1222
-pulse 408
-space 1223
-pulse 407
-space 1224
-pulse 406
-space 1222
-pulse 407
-pulse 144603
+  5729324
+
+  5703132-space
+
+     3238     1651      407      406      407      409
+      404     1222      407      406      407     1222
+      407      406      407      406      406      415
+      407     1223      407     1225      405      405
+      407      406      407      405      407     1222
+      407     1223      407      414      407      406
+      407      406      407      405      407      406
+      408      405      406      406      407      406
+      406      415      407      405      408      405
+      406      406      407      406      407     1223
+      407      406      407      406      410      412
+      406      406      406      406      406      407
+      406      406      407     1223      406      406
+      407      406      406      415      406      406
+      407     1226      404      406      406      406
+      407      406      407      405      406      406
+      407      414      407     1223      407      406
+      407     1222      407     1223      435     1194
+      407     1222      407     1223      407     1223
+      407   142116-pulse

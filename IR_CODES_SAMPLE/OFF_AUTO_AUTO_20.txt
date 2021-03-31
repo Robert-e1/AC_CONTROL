@@ -1,118 +1,25 @@
 Running as regular user pi
-space 16777215
-pulse 3265
-space 1623
-pulse 413
-space 400
-pulse 413
-space 400
-pulse 413
-space 1220
-pulse 410
-space 400
-pulse 414
-space 1215
-pulse 413
-space 400
-pulse 413
-space 400
-pulse 413
-space 409
-pulse 414
-space 1216
-pulse 412
-space 1217
-pulse 413
-space 402
-pulse 411
-space 400
-pulse 414
-space 399
-pulse 413
-space 1217
-pulse 412
-space 1217
-pulse 413
-space 409
-pulse 413
-space 399
-pulse 413
-space 400
-pulse 413
-space 400
-pulse 413
-space 400
-pulse 412
-space 400
-pulse 417
-space 395
-pulse 413
-space 399
-pulse 413
-space 408
-pulse 414
-space 400
-pulse 413
-space 399
-pulse 414
-space 399
-pulse 413
-space 399
-pulse 414
-space 1216
-pulse 413
-space 400
-pulse 412
-space 400
-pulse 414
-space 408
-pulse 416
-space 397
-pulse 414
-space 399
-pulse 413
-space 399
-pulse 413
-space 399
-pulse 413
-space 1217
-pulse 413
-space 399
-pulse 413
-space 399
-pulse 413
-space 408
-pulse 413
-space 400
-pulse 413
-space 1217
-pulse 413
-space 402
-pulse 410
-space 399
-pulse 413
-space 400
-pulse 413
-space 400
-pulse 414
-space 399
-pulse 413
-space 408
-pulse 413
-space 1217
-pulse 412
-space 401
-pulse 413
-space 1217
-pulse 412
-space 1217
-pulse 414
-space 1214
-pulse 414
-space 1217
-pulse 415
-space 1215
-pulse 413
-space 1217
-pulse 413
-pulse 142971
+ 15849960
+
+ 15823608-space
+
+     3247     1645      411      401      411      404
+      409     1217      410      402      412     1218
+      411      401      412      401      412      410
+      412     1218      411     1221      409      401
+      411      401      412      401      412     1218
+      412     1218      412      410      411      401
+      412      400      412      400      412      401
+      413      400      411      387      425      401
+      411      410      412      401      411      401
+      412      401      411      402      411     1218
+      411      401      411      402      411      414
+      408      401      411      401      411      402
+      410      402      412     1218      411      401
+      411      402      411      410      411      401
+      412     1221      409      401      411      401
+      411      401      412      401      411      402
+      411      410      411     1219      410      402
+      410     1219      411     1220      410     1219
+      411     1219      411     1218      411     1219
+      411   142303-pulse

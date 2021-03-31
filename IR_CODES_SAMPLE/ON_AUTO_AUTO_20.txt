@@ -1,263 +1,49 @@
 Running as regular user pi
-space 6257546
-space 6229819
-pulse 3238
-space 1647
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 408
-space 1225
-pulse 404
-space 405
-pulse 407
-space 1222
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 406
-space 415
-pulse 407
-space 1222
-pulse 407
-space 1222
-pulse 408
-space 405
-pulse 407
-space 407
-pulse 406
-space 405
-pulse 407
-space 1223
-pulse 407
-space 1223
-pulse 406
-space 414
-pulse 408
-space 405
-pulse 408
-space 405
-pulse 407
-space 405
-pulse 408
-space 405
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 406
-space 414
-pulse 408
-space 405
-pulse 409
-space 404
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 1222
-pulse 408
-space 405
-pulse 408
-space 405
-pulse 407
-space 414
-pulse 407
-space 406
-pulse 411
-space 402
-pulse 408
-space 405
-pulse 407
-space 405
-pulse 407
-space 1223
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 407
-space 406
-pulse 407
-space 1223
-pulse 407
-space 1225
-pulse 404
-space 1223
-pulse 407
-space 1222
-pulse 407
-space 1223
-pulse 408
-space 1222
-pulse 407
-space 1232
-pulse 407
-space 1223
-pulse 407
-space 407
-pulse 406
-space 405
-pulse 406
-space 1224
-pulse 407
-space 406
-pulse 406
-space 406
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 415
-pulse 399
-space 1222
-pulse 406
-space 1223
-pulse 407
-space 405
-pulse 407
-space 415
-pulse 407
-space 1222
-pulse 407
-space 405
-pulse 408
-space 406
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 411
-space 403
-pulse 407
-space 1222
-pulse 408
-space 414
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 407
-space 408
-pulse 405
-space 405
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 408
-space 407
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 408
-space 405
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 409
-pulse 403
-space 405
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 408
-space 406
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 407
-space 406
-pulse 407
-space 414
-pulse 408
-space 405
-pulse 410
-space 403
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 407
-space 405
-pulse 407
-space 406
-pulse 406
-space 414
-pulse 408
-space 405
-pulse 407
-space 406
-pulse 407
-space 405
-pulse 408
-space 405
-pulse 407
-space 405
-pulse 410
-space 1220
-pulse 407
-space 404
-pulse 407
-space 414
-pulse 409
-space 1222
-pulse 407
-space 1222
-pulse 407
-space 1222
-pulse 407
-space 1223
-pulse 408
-space 408
-pulse 404
-space 1222
-pulse 407
-space 1223
-pulse 407
-space 406
-pulse 407
-pulse 135175
+  3847663
+
+  3821275-space
+
+     3239     1649      406      405      407      407
+      406     1223      407      406      407     1223
+      407      405      407      406      407      414
+      407     1222      407     1223      410      402
+      407      406      407      406      407     1223
+      407     1223      407      415      407      406
+      407      405      407      405      407      406
+      407      406      406      406      407      406
+      407      415      407      406      407      406
+      407      406      407      406      407     1223
+      407      406      407      405      407      417
+      405      405      407      405      407      405
+      407      406      407     1221      408      405
+      407      406      407      414      407      405
+      407     1226      405     1221      408     1222
+      407     1223      407     1222      408     1221
+      437     1202      408     1222      406      406
+      437      375      407     1223      406      406
+      438      375      398      415      440      381
+      438      374      437      375      443      370
+      438      375      439     1190      439     1190
+      382      431      381      440      381     1249
+      381      431      438      374      408      408
+      435      375      439      374      381     1248
+      439      383      381      431      405      407
+      382      431      381      432      381      431
+      381      432      440      373      406      415
+      381      431      381      431      382      431
+      381      431      381      431      382      431
+      382      431      381      440      438      374
+      382      431      381      431      381      432
+      381      431      381      431      382      431
+      381      440      381      431      382      431
+      382      431      381      431      381      431
+      382      431      381      432      442      379
+      381      431      381      432      381      432
+      381      432      381      431      381      431
+      381      431      382      440      381      432
+      381      431      381      431      381      434
+      379      431      381     1249      407      406
+      406      415      381     1248      381     1249
+      407     1222      408     1225      404      406
+      439     1191      407     1223      408      405
+      408   143890-pulse
